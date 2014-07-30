@@ -1,0 +1,21 @@
+{
+  "name": "Calendar",
+  "version": "0.0.1",
+  "authors": [
+    "Filipe Braida <filipebraida@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fullcalendar": "2.1.0-beta1",
+    "jquery-ui": "~1.11.0",
+    "twitter": "~3.2.0"
+  }
+}
